@@ -1,4 +1,4 @@
-# AI-Project-Machine-Learning
+# AI-Project Machine Learning
 
 ## Malaria Cell Detection
 
